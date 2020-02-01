@@ -1,0 +1,9 @@
+*.log
+node_modules
+npm-debug.log
+logs
+.vscode/*
+typings
+schemas
+jsconfig.json
+coverage
